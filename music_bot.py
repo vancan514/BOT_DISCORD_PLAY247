@@ -4,7 +4,7 @@ from youtube_dl import YoutubeDL
 
 # Cài đặt thông số cho bot
 PREFIX = '$'
-TOKEN = 'MTIyNjgzNzA0MDIzMDgzMDEyMQ.GBzjju.nMPPTE9Q13dVN_BJfEW7xwd44Yw6AeNw34X9Ok'
+TOKEN = 'MTIyNjgzNzA0MDIzMDgzMDEyMQ.Go4rsh.ytf_EbYHDTEUyV6vIHNnlyzfMygrKQKhbW0Qoo'
 
 # Khởi tạo bot
 bot = commands.Bot(command_prefix=PREFIX)
